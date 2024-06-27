@@ -1,0 +1,1 @@
+https://github.com/NIKENT/rsschool-cv/blob/gh-pages/cv.md
