@@ -1,2 +1,1 @@
-# rsschool-cv
-JavaScript/Front-end 2025Q3
+https://NIKENT.github.io/rsschool-cv/cv
