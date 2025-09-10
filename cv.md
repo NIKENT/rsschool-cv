@@ -1,7 +1,16 @@
 ## *Sianko MIkita - CV*
-1. Contact information: Telegramm - @NIKENTGOO;
-2. About me: M25Y, Noughty and horny;
-4. Hard skills: PascalABC, AutoCAD, Delphi;
-5. Career: Consrtuction site manager (6 years exp.);
-6. Education: BNTU. 
-7. Languages: English, Russian, Italian.
+### Contact information: 
+1. Telegramm - @NIKENTGOO
+2. Email - niks3223@gmail.com
+### About me: 
+M25Y, Noughty and horny;
+### Hard skills: 
+PascalABC, AutoCAD, Delphi;
+### Career: 
+Consrtuction site manager (6 years exp.);
+### Education: 
+BNTU (1941-1945). 
+### Languages: 
+* English
+* Russian
+* Italian
